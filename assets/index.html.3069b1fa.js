@@ -1,0 +1,1 @@
+const e={key:"v-74bc627b",path:"/about/",title:"\u5F85\u5904\u7406\u95EE\u9898",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"1. \u4FA7\u8FB9\u680F",slug:"_1-\u4FA7\u8FB9\u680F",children:[]}],git:{updatedTime:1649141183e3,contributors:[{name:"lawyerlxc",email:"285452292@qq.com",commits:1}]},filePathRelative:"about/index.md"};export{e as data};

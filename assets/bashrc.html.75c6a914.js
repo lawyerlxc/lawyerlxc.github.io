@@ -1,0 +1,1 @@
+const t={key:"v-6d96c2ce",path:"/about/bashrc.html",title:"bashrc\u5C0F\u6280\u5DE7",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1649141183e3,contributors:[{name:"lawyerlxc",email:"285452292@qq.com",commits:1}]},filePathRelative:"about/bashrc.md"};export{t as data};
